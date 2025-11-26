@@ -30,6 +30,7 @@ body {
 h1 {
     font-size: 2.5rem;
     color: var(--primary-color);
+    text-align: center;
     margin-bottom: 1rem;
     font-weight: 700;
 }
@@ -135,6 +136,7 @@ input[type="button"] {
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
+    width: 150px;
     transition: background-color 0.3s ease;
 }
 
